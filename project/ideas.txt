@@ -1,0 +1,6 @@
+Add order class
+How to handle pallets
+Better translation table
+Remove floor hashmap
+Split up MainSystem
+Add facsia class

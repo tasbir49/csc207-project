@@ -1,0 +1,109 @@
+[
+  {
+    "name": "CsvReadWrite",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Reads CSV file ",
+      "Writes into a CSV file"
+    ],
+    "collaborators": [
+      "OrderProcesser",
+      "TranslationTable",
+      "Truck",
+      "PickingRequest"
+    ]
+  },
+  {
+    "name": "OrderProcesser",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Holds all orders that came in, ordered by time",
+      "Sends out picking requests per 4 orders"
+    ],
+    "collaborators": [
+      "CsvReadWrite",
+      "TranslationTable",
+      "PickingRequest",
+      ""
+    ]
+  },
+  {
+    "name": "WarehouseFloor",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Keeps track of all things in the warehouse",
+      "When the floor is updated, check for low amount of facias and sends out replenish request"
+    ],
+    "collaborators": [
+      "PickingRequest"
+    ]
+  },
+  {
+    "name": "TranslationTable",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Translates colours and model into SKU numbers"
+    ],
+    "collaborators": [
+      "CsvReadWrite",
+      "PickingRequest",
+      "OrderProcesser"
+    ]
+  },
+  {
+    "name": "PickingRequest",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Picks out 8 facias",
+      "Updates the warehouse for each facia picked",
+      "Put the 8 facias onto 2 pallets",
+      "Sends the pallets to be loaded",
+      "log to final.csv"
+    ],
+    "collaborators": [
+      "CsvReadWrite",
+      "TruckLoader",
+      "WarehouseFloor",
+      "TranslationTable",
+      "OrderProcesser"
+    ]
+  },
+  {
+    "name": "TruckLoader",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Takes pallets and loads them onto truck"
+    ],
+    "collaborators": [
+      "Truck",
+      "PickingRequest"
+    ]
+  },
+  {
+    "name": "Truck",
+    "superclasses": "",
+    "subclasses": "",
+    "type": 1,
+    "responsibilities": [
+      "Wait in the factory until its full then leaves",
+      "Keeps track of what's in the truck",
+      "logs to orders.csv"
+    ],
+    "collaborators": [
+      "CsvReadWrite",
+      "TruckLoader"
+    ]
+  }
+] 

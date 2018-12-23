@@ -1,0 +1,29 @@
+Phase 2
+========================Tasbir Rahman=====================
+I converted all the print statements so that they use the logger.
+I added logging to all the events when read. I refactored a lot of
+the code and documentation so that it is more descriptive. I also removed some 
+instances of hardcoding in WarehouseFloor and WorkerManager. I also did some of 
+the walkthrough and created the TestSuite class along with updating
+help.txt to show how to run it. 
+
+========================Peijun Ma=========================
+I broke up Warehouse class into smaller classes.I added FileSystem, PickingRequestManager, 
+WorkerManager, Location, MasterSystem classes. 
+I wrote all of the unit tests for phase 2 except for WorkerTest. I also
+implemented the rescan method in Worker. I did some of the walkthrough.
+NOTE: In commit history, username is Umi and Unknown and email is 982341777@qq.com
+
+==================Venkata Chaitanya Peesapati===================
+I created and implemented some unittests. I redid half the UML with Andrew doing the other 
+half. I helped find and tweak smaller bugs as I came across them. We all contributed to making
+design decisions.
+NOTE: In commit history, username is betaman3 and email is chaitanya1998@gmail.com
+
+========================Andrew Olechtchouk=========================
+I took part in redesigning and remaking the UML diagram along with 
+Chaitanya. I also made changes to documentation in some parts of the
+program by fixing things such as grammar and obsolete parts of
+the docstrings.
+
+

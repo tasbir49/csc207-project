@@ -1,0 +1,826 @@
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order White S
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:S, White
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order White SE
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SE, White
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order White SES
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SES, White
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order White SEL
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SEL, White
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Beige S
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:S, Beige
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Beige SE
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SE, Beige
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Beige SES
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SES, Beige
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Beige SEL
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SEL, Beige
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Red S
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:S, Red
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Red SE
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SE, Red
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Red SES
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SES, Red
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Red SEL
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SEL, Red
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Green S
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:S, Green
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Green SE
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SE, Green
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Green SES
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SES, Green
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Green SEL
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SEL, Green
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Blue S
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:S, Blue
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Blue SE
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SE, Blue
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Blue SES
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SES, Blue
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Blue SEL
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SEL, Blue
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Black S
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:S, Black
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Black SE
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SE, Black
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Black SES
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SES, Black
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Order Black SEL
+Mar 30, 2017 5:35:20 PM fascia.PickingRequestManager addOrder
+INFO: New Order:SEL, Black
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice ready
+Mar 30, 2017 5:35:20 PM worker.Worker readyHelper
+WARNING: Picker Alice is ready.
+Mar 30, 2017 5:35:20 PM worker.Picker readyAction
+INFO: PickerAlice go to locations:
+A,0,0,0
+A,0,0,1
+A,0,0,2
+A,0,0,3
+A,0,1,0
+A,0,1,1
+A,0,1,2
+A,0,1,3
+
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 10
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 10 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+WARNING: Picker Alice SKU: 10 incorrect scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 1
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 1 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 1 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 2
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 2 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 2 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 3
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 3 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 3 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 4
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 4 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 4 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 5
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 5 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 5 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 6
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 6 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 6 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 7
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 7 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 7 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 8
+Mar 30, 2017 5:35:20 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 8 taken.
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 8 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice finish
+Mar 30, 2017 5:35:20 PM worker.Picker finishAction
+INFO: Picker Alice has gone to marshalling area.
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue ready
+Mar 30, 2017 5:35:20 PM worker.Worker readyHelper
+WARNING: Sequencer Sue is ready.
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 1
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 1
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 1 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 3
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 3
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 3 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 5
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 5
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 5 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 7
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 7
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 7 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 2
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 2
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 2 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 4
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 4
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 4 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 6
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 6
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 6 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 8
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 8
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 8 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue finish
+Mar 30, 2017 5:35:20 PM worker.Sequencer finishAction
+INFO: The sequencer Sue has finished sequencing and sent the picking request for loading.
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom ready
+Mar 30, 2017 5:35:20 PM worker.Worker readyHelper
+WARNING: Loader Tom is ready.
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 1
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 1
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 1 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 3
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 3
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 3 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 5
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 5
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 5 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 7
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 7
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 7 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 2
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 2
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 2 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 4
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 4
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 4 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 6
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 6
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 6 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 8
+Mar 30, 2017 5:35:20 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 8
+Mar 30, 2017 5:35:20 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 8 correct scan
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom finish
+Mar 30, 2017 5:35:20 PM worker.Loader finishAction
+INFO: Loader Tom loaded picking request 0
+Mar 30, 2017 5:35:20 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob ready
+Mar 30, 2017 5:35:20 PM worker.Worker readyHelper
+WARNING: Picker Bob is ready.
+Mar 30, 2017 5:35:20 PM worker.Picker readyAction
+INFO: PickerBob go to locations:
+A,0,2,0
+A,0,2,1
+A,0,2,2
+A,0,2,3
+A,1,0,0
+A,1,0,1
+A,1,0,2
+A,1,0,3
+
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 9
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 9 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 9 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 10
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 10 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 10 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 11
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 11 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 11 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 12
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 12 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 12 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 13
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 13 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 13 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 14
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 14 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 14 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 15
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 15 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 15 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 16
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 16 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 16 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob finish
+Mar 30, 2017 5:35:21 PM worker.Picker finishAction
+INFO: Picker Bob has gone to marshalling area.
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice ready
+Mar 30, 2017 5:35:21 PM worker.Worker readyHelper
+WARNING: Picker Alice is ready.
+Mar 30, 2017 5:35:21 PM worker.Picker readyAction
+INFO: PickerAlice go to locations:
+A,1,1,0
+A,1,1,1
+A,1,1,2
+A,1,1,3
+A,1,2,0
+A,1,2,1
+A,1,2,2
+A,1,2,3
+
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 17
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 17 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 17 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 18
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 18 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 18 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 19
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 19 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 19 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Replenisher Ruby ready
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Replenisher Ruby scan 19
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Replenisher Ruby finish
+Mar 30, 2017 5:35:21 PM worker.Replenisher finish
+INFO: SKU 19 has been replenished by Ruby
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 20
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 20 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 20 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 21
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 21 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 21 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 22
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 22 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 22 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 23
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 23 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 23 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice scan 24
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 24 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Alice SKU: 24 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Alice finish
+Mar 30, 2017 5:35:21 PM worker.Picker finishAction
+INFO: Picker Alice has gone to marshalling area.
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob ready
+Mar 30, 2017 5:35:21 PM worker.Worker readyHelper
+WARNING: Picker Bob is ready.
+Mar 30, 2017 5:35:21 PM worker.Picker readyAction
+INFO: PickerBob go to locations:
+B,0,0,0
+B,0,0,1
+B,0,0,2
+B,0,0,3
+B,0,1,0
+B,0,1,1
+B,0,1,2
+B,0,1,3
+
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 25
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 25 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 25 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 26
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 26 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 26 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 27
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 27 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 27 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 28
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 28 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 28 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 29
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 29 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 29 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 30
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 30 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 30 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 31
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 31 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 31 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob scan 32
+Mar 30, 2017 5:35:21 PM warehousefloor.WarehouseFloor removeSku
+INFO: One SKU 32 taken.
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Picker Bob SKU: 32 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Picker Bob finish
+Mar 30, 2017 5:35:21 PM worker.Picker finishAction
+INFO: Picker Bob has gone to marshalling area.
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue ready
+Mar 30, 2017 5:35:21 PM worker.Worker readyHelper
+WARNING: Sequencer Sue is ready.
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 9
+Mar 30, 2017 5:35:21 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 9
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 9 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 11
+Mar 30, 2017 5:35:21 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 11
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 11 correct scan
+Mar 30, 2017 5:35:21 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 13
+Mar 30, 2017 5:35:21 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 13
+Mar 30, 2017 5:35:21 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 13 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 15
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 15
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 15 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 10
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 10
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 10 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 12
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 12
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 12 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 14
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 14
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 14 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 16
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 16
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 16 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue finish
+Mar 30, 2017 5:35:22 PM worker.Sequencer finishAction
+INFO: The sequencer Sue has finished sequencing and sent the picking request for loading.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue ready
+Mar 30, 2017 5:35:22 PM worker.Worker readyHelper
+WARNING: Sequencer Sue is ready.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 17
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 17
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 17 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 19
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 19
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 19 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 21
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 21
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 21 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 23
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 23
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 23 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 18
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 18
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 18 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 20
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 20
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 20 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 22
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 22
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 22 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 24
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 24
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 24 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue finish
+Mar 30, 2017 5:35:22 PM worker.Sequencer finishAction
+INFO: The sequencer Sue has finished sequencing and sent the picking request for loading.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue ready
+Mar 30, 2017 5:35:22 PM worker.Worker readyHelper
+WARNING: Sequencer Sue is ready.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 25
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 25
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 25 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 27
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 27
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 27 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 29
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 29
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 29 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 31
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 31
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 31 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 26
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 26
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 26 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 28
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 28
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 28 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 30
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 30
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 30 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue scan 32
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Sequencer Sue scanned sku: 32
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Sequencer Sue SKU: 32 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Sequencer Sue finish
+Mar 30, 2017 5:35:22 PM worker.Sequencer finishAction
+INFO: The sequencer Sue has finished sequencing and sent the picking request for loading.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom ready
+Mar 30, 2017 5:35:22 PM worker.Worker readyHelper
+WARNING: Loader Tom is ready.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 9
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 9
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 9 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 11
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 11
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 11 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 13
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 13
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 13 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 15
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 15
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 15 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 10
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 10
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 10 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 12
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 12
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 12 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 14
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 14
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 14 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 16
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 16
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 16 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom finish
+Mar 30, 2017 5:35:22 PM worker.Loader finishAction
+INFO: Loader Tom loaded picking request 1
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom ready
+Mar 30, 2017 5:35:22 PM worker.Worker readyHelper
+WARNING: Loader Tom is ready.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 17
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 17
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 17 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 19
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 19
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 19 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 21
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 21
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 21 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 23
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 23
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 23 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 18
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 18
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 18 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 20
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 20
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 20 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 22
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 22
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 22 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 24
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 24
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 24 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom finish
+Mar 30, 2017 5:35:22 PM worker.Loader finishAction
+INFO: Loader Tom loaded picking request 2
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom ready
+Mar 30, 2017 5:35:22 PM worker.Worker readyHelper
+WARNING: Loader Tom is ready.
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 25
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 25
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 25 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 27
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 27
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 27 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 29
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 29
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 29 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 31
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 31
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 31 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 26
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 26
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 26 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 28
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 28
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 28 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 30
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 30
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 30 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom scan 32
+Mar 30, 2017 5:35:22 PM worker.Worker scan
+INFO: Loader Tom scanned sku: 32
+Mar 30, 2017 5:35:22 PM worker.Worker scanResult
+INFO: Loader Tom SKU: 32 correct scan
+Mar 30, 2017 5:35:22 PM util.Simulator run
+INFO: SIMULATOR EVENT : Loader Tom finish
+Mar 30, 2017 5:35:22 PM worker.Loader finishAction
+INFO: Loader Tom loaded picking request 3

@@ -1,0 +1,18 @@
+Made zone name a string for expandibility
+
+Abstract worker class for expandibility
+
+Store both SKU number and amount
+
+Using simulator class to manage the instructions
+
+Within WarehouseFloor Class, our floor Hashmap uses an integer array of 
+length 2 to repesent SKU model and stock level.
+
+addFacsia method won't accept incorrect type of SKU
+
+made pickers refuse to go to marshal if orders not complete.
+
+arraylists in sequencer and truck beds for expandibility.
+
+replenishers require a request to even start. 

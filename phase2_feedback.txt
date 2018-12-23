@@ -1,0 +1,43 @@
+PHASE 2 MARKING
+
+group_0376 Phase 2 Grade: B
+
+Phase 2 marks are based on the group presentations (including code and
+design quality and project completeness) and your group's unit test
+coverage.  Because we did not give you Checkstyle feedback from Phase
+1 on time, we have excluded that from the marking.
+
+There is an individual component as well.  Your individual mark was
+affected by how well you were able to answer the individual questions.
+
+Before asking for more information about the marking, please re-read
+the entire phase 2 handout that is in your group repository, and in
+particular everything from "What to do for Phase 2" to the end of the
+handout.
+
+Here is the feedback from the TAs:
+
+Your code uses many design patterns, contains good documentation, and adequate
+testing. The status of workers should be either stored or tracked in order to
+make the system more robust. You have a number of circular dependencies. For
+example, the MasterSystem contains everything you need for a warehouse, but
+the worker classes (inside the MaterSystem) contain MasterSystem information.
+The MVC pattern helps eliminate this sort of problem by classifying every
+method or variable as Model (information that needs to be stored), Controller
+(functionality that interacts with the system boundaries and the model - for
+example, sending and receiving requests), and the View (classes that display
+information such as printing a log message to the screen or a file).
+
+
+We opened each project in Eclipse and ran EclEmma.  Here is how we applied the
+code coverage deduction:
+
+coverage  deduction
+90+       -0
+80-89     -2
+70-79     -5
+60-69     -8
+50-59    -11
+40-49    -14
+20-39    -17
+0-20     -20

@@ -1,0 +1,148 @@
+Order White S
+Order White SE
+Order White SES
+Order White SEL
+Order Beige S
+Order Beige SE
+Order Beige SES
+Order Beige SEL
+Order Red S
+Order Red SE
+Order Red SES
+Order Red SEL
+Order Green S
+Order Green SE
+Order Green SES
+Order Green SEL
+Order Blue S
+Order Blue SE
+Order Blue SES
+Order Blue SEL
+Order Black S
+Order Black SE
+Order Black SES
+Order Black SEL
+Picker Alice ready
+Picker Alice scan 10
+Picker Alice scan 1
+Picker Alice scan 2
+Picker Alice scan 3
+Picker Alice scan 4
+Picker Alice scan 5
+Picker Alice scan 6
+Picker Alice scan 7
+Picker Alice scan 8
+Picker Alice finish
+Sequencer Sue ready
+Sequencer Sue scan 1
+Sequencer Sue scan 3
+Sequencer Sue scan 5
+Sequencer Sue scan 7
+Sequencer Sue scan 2
+Sequencer Sue scan 4
+Sequencer Sue scan 6
+Sequencer Sue scan 8
+Sequencer Sue finish
+Loader Tom ready
+Loader Tom scan 1
+Loader Tom scan 3
+Loader Tom scan 5
+Loader Tom scan 7
+Loader Tom scan 2
+Loader Tom scan 4
+Loader Tom scan 6
+Loader Tom scan 8
+Loader Tom finish
+Picker Bob ready
+Picker Bob scan 9
+Picker Bob scan 10
+Picker Bob scan 11
+Picker Bob scan 12
+Picker Bob scan 13
+Picker Bob scan 14
+Picker Bob scan 15
+Picker Bob scan 16
+Picker Bob finish
+Picker Alice ready
+Picker Alice scan 17
+Picker Alice scan 18
+Picker Alice scan 19
+Replenisher Ruby ready
+Replenisher Ruby scan 19
+Replenisher Ruby finish
+Picker Alice scan 20
+Picker Alice scan 21
+Picker Alice scan 22
+Picker Alice scan 23
+Picker Alice scan 24
+Picker Alice finish
+Picker Bob ready
+Picker Bob scan 25
+Picker Bob scan 26
+Picker Bob scan 27
+Picker Bob scan 28
+Picker Bob scan 29
+Picker Bob scan 30
+Picker Bob scan 31
+Picker Bob scan 32
+Picker Bob finish
+Sequencer Sue ready
+Sequencer Sue scan 9
+Sequencer Sue scan 11
+Sequencer Sue scan 13
+Sequencer Sue scan 15
+Sequencer Sue scan 10
+Sequencer Sue scan 12
+Sequencer Sue scan 14
+Sequencer Sue scan 16
+Sequencer Sue finish
+Sequencer Sue ready
+Sequencer Sue scan 17
+Sequencer Sue scan 19
+Sequencer Sue scan 21
+Sequencer Sue scan 23
+Sequencer Sue scan 18
+Sequencer Sue scan 20
+Sequencer Sue scan 22
+Sequencer Sue scan 24
+Sequencer Sue finish
+Sequencer Sue ready
+Sequencer Sue scan 25
+Sequencer Sue scan 27
+Sequencer Sue scan 29
+Sequencer Sue scan 31
+Sequencer Sue scan 26
+Sequencer Sue scan 28
+Sequencer Sue scan 30
+Sequencer Sue scan 32
+Sequencer Sue finish
+Loader Tom ready
+Loader Tom scan 9
+Loader Tom scan 11
+Loader Tom scan 13
+Loader Tom scan 15
+Loader Tom scan 10
+Loader Tom scan 12
+Loader Tom scan 14
+Loader Tom scan 16
+Loader Tom finish
+Loader Tom ready
+Loader Tom scan 17
+Loader Tom scan 19
+Loader Tom scan 21
+Loader Tom scan 23
+Loader Tom scan 18
+Loader Tom scan 20
+Loader Tom scan 22
+Loader Tom scan 24
+Loader Tom finish
+Loader Tom ready
+Loader Tom scan 25
+Loader Tom scan 27
+Loader Tom scan 29
+Loader Tom scan 31
+Loader Tom scan 26
+Loader Tom scan 28
+Loader Tom scan 30
+Loader Tom scan 32
+Loader Tom finish
